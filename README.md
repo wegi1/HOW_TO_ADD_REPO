@@ -29,3 +29,14 @@ git push -u origin master
 git remote add origin https://gitgub.com/wegi1/repo_file_name.git
 
 git push -u origin master
+
+
+or
+
+git commit -m "first commit"
+
+git branch -M main
+
+git remote add origin https://gitgub.com/wegi1/repo_file_name.git
+
+git push -u origin main
