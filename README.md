@@ -46,3 +46,12 @@ when going error error: src refspec main does not match any type:
 
 git push origin HEAD:master
 
+
+1. git add .
+2. git commit -m "Your Message Here"
+3. git push origin HEAD:main
+
+Method 3 Commands
+1. git add .
+2. git commit -m "Your Message Here"
+3. git push origin HEAD:master
