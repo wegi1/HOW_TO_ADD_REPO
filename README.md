@@ -19,7 +19,7 @@ git init
 
 git add Readme.md
 
-git commit -m "firs commit"
+git commit -m "first commit"
 
 git remote add origin https://gitgub.com/wegi1/repo_file_name.git
 
@@ -40,3 +40,9 @@ git branch -M main
 git remote add origin https://gitgub.com/wegi1/repo_file_name.git
 
 git push -u origin main
+
+
+when going error error: src refspec main does not match any type:
+
+git push origin HEAD:master
+
